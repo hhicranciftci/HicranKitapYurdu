@@ -1,0 +1,526 @@
+[INFO ] 2022-07-29 11:23:04.780 [main] Log - Test başlıyor.
+[INFO ] 2022-07-29 11:23:13.877 [main] Log - Driver ayağa kaldırıldı.
+[INFO ] 2022-07-29 11:23:14.064 [main] Log - Driver maximize modda açıldı.
+[INFO ] 2022-07-29 11:23:18.027 [main] Log - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 11:23:18.034 [main] Log - https://www.kitapyurdu.com/ Siteye gidildiği doğrulandı.
+[INFO ] 2022-07-29 11:23:18.060 [main] Log - By.cssSelector: .logo-text Element bulundu.
+[INFO ] 2022-07-29 11:23:18.083 [main] Log - *Roman kelimesi csv dosyasından çekildi.*
+[INFO ] 2022-07-29 11:23:18.098 [main] Log - By.xpath: //input[@name='search_keyword'] Element bulundu.
+[INFO ] 2022-07-29 11:23:18.184 [main] Log - By.xpath: //input[@name='search_keyword'] elementine Roman texti yazıldı.
+[INFO ] 2022-07-29 11:23:18.194 [main] Log - By.xpath: //input[@name='search_keyword'] Element bulundu.
+[INFO ] 2022-07-29 11:23:19.703 [main] Log - Enter tuşu basıldı.
+[INFO ] 2022-07-29 11:23:19.720 [main] Log - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart elementlerin listesi bulundu.
+[INFO ] 2022-07-29 11:23:19.731 [main] Log - 1 değeri ile 20 değeri arasında rastgele seçilen sayı : 5
+[INFO ] 2022-07-29 11:23:19.742 [main] Log - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart elementlerin listesi bulundu.
+[INFO ] 2022-07-29 11:23:19.882 [main] Log - Random seçilen elemente tıklandı ..
+[INFO ] 2022-07-29 11:23:20.457 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] elementinin text değeri :  1
+[INFO ] 2022-07-29 11:23:20.476 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] Element bulundu.
+[INFO ] 2022-07-29 11:23:20.545 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] Element bulundu.
+[INFO ] 2022-07-29 11:23:20.596 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] elementine tıklandı.
+[INFO ] 2022-07-29 11:23:21.022 [main] Log - By.id: js-cart Element bulundu.
+[INFO ] 2022-07-29 11:23:21.870 [main] Log - By.id: js-cart elementine tıklandı.
+[INFO ] 2022-07-29 11:23:21.930 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] Element bulundu.
+[INFO ] 2022-07-29 11:23:21.993 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] elementine tıklandı.
+[INFO ] 2022-07-29 11:23:22.013 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] Element bulundu.
+[INFO ] 2022-07-29 11:23:22.050 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] elementi silindi.
+[INFO ] 2022-07-29 11:23:22.060 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] Element bulundu.
+[INFO ] 2022-07-29 11:23:22.113 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] elementine 2 texti yazıldı.
+[INFO ] 2022-07-29 11:23:22.163 [main] Log - By.xpath: //i[@title='Güncelle'] Element bulundu.
+[INFO ] 2022-07-29 11:23:22.213 [main] Log - By.xpath: //i[@title='Güncelle'] elementine tıklandı.
+[INFO ] 2022-07-29 11:23:22.507 [main] Log - By.id: swal2-title elementinin text değeri :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 11:23:22.523 [main] Log - By.id: swal2-title Element bulundu.
+[INFO ] 2022-07-29 11:23:22.977 [main] Log - By.xpath: //i[@title='Kaldır'] Element bulundu.
+[INFO ] 2022-07-29 11:23:23.066 [main] Log - By.xpath: //i[@title='Kaldır'] elementine tıklandı.
+[INFO ] 2022-07-29 11:23:23.618 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] elementinin text değeri :  0
+[INFO ] 2022-07-29 11:23:23.629 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] Element bulundu.
+[INFO ] 2022-07-29 11:23:28.357 [main] Log - Test sona erdi.
+[INFO ] 2022-07-29 14:04:37.368 [main] Log - Test başlıyor.
+[INFO ] 2022-07-29 14:04:40.575 [main] Log - Driver ayağa kaldırıldı.
+[INFO ] 2022-07-29 14:04:40.716 [main] Log - Driver maximize modda açıldı.
+[INFO ] 2022-07-29 14:04:45.357 [main] Log - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 14:04:45.361 [main] Log - https://www.kitapyurdu.com/ Siteye gidildiği doğrulandı.
+[INFO ] 2022-07-29 14:04:45.376 [main] Log - By.cssSelector: .logo-text Element bulundu.
+[INFO ] 2022-07-29 14:04:45.389 [main] Log - *Roman kelimesi csv dosyasından çekildi.*
+[INFO ] 2022-07-29 14:04:45.399 [main] Log - By.xpath: //input[@name='search_keyword'] Element bulundu.
+[INFO ] 2022-07-29 14:04:45.459 [main] Log - By.xpath: //input[@name='search_keyword'] elementine Roman texti yazıldı.
+[INFO ] 2022-07-29 14:04:45.466 [main] Log - By.xpath: //input[@name='search_keyword'] Element bulundu.
+[INFO ] 2022-07-29 14:04:47.173 [main] Log - Enter tuşu basıldı.
+[INFO ] 2022-07-29 14:04:47.186 [main] Log - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart elementlerin listesi bulundu.
+[INFO ] 2022-07-29 14:04:47.194 [main] Log - 1 değeri ile 20 değeri arasında rastgele seçilen sayı : 14
+[INFO ] 2022-07-29 14:04:47.201 [main] Log - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart elementlerin listesi bulundu.
+[INFO ] 2022-07-29 14:04:47.284 [main] Log - Random seçilen elemente tıklandı ..
+[INFO ] 2022-07-29 14:05:37.242 [main] Log - Test sona erdi.
+[INFO ] 2022-07-29 14:07:09.691 [main] Log - Test başlıyor.
+[INFO ] 2022-07-29 14:07:12.034 [main] Log - Driver ayağa kaldırıldı.
+[INFO ] 2022-07-29 14:07:12.170 [main] Log - Driver maximize modda açıldı.
+[INFO ] 2022-07-29 14:07:15.593 [main] Log - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 14:07:15.597 [main] Log - https://www.kitapyurdu.com/ Siteye gidildiği doğrulandı.
+[INFO ] 2022-07-29 14:07:15.611 [main] Log - By.cssSelector: .logo-text Element bulundu.
+[INFO ] 2022-07-29 14:07:15.624 [main] Log - *Roman kelimesi csv dosyasından çekildi.*
+[INFO ] 2022-07-29 14:07:15.634 [main] Log - By.xpath: //input[@name='search_keyword'] Element bulundu.
+[INFO ] 2022-07-29 14:07:15.691 [main] Log - By.xpath: //input[@name='search_keyword'] elementine Roman texti yazıldı.
+[INFO ] 2022-07-29 14:07:15.697 [main] Log - By.xpath: //input[@name='search_keyword'] Element bulundu.
+[INFO ] 2022-07-29 14:07:17.679 [main] Log - Enter tuşu basıldı.
+[INFO ] 2022-07-29 14:07:17.692 [main] Log - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart elementlerin listesi bulundu.
+[INFO ] 2022-07-29 14:07:17.701 [main] Log - 1 değeri ile 20 değeri arasında rastgele seçilen sayı : 6
+[INFO ] 2022-07-29 14:07:17.709 [main] Log - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart elementlerin listesi bulundu.
+[INFO ] 2022-07-29 14:07:17.803 [main] Log - Random seçilen elemente tıklandı ..
+[INFO ] 2022-07-29 14:07:18.357 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] elementinin text değeri :  1
+[INFO ] 2022-07-29 14:07:18.368 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] Element bulundu.
+[INFO ] 2022-07-29 14:07:18.416 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] Element bulundu.
+[INFO ] 2022-07-29 14:07:18.452 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] elementine tıklandı.
+[INFO ] 2022-07-29 14:07:18.861 [main] Log - By.id: js-cart Element bulundu.
+[INFO ] 2022-07-29 14:07:19.694 [main] Log - By.id: js-cart elementine tıklandı.
+[INFO ] 2022-07-29 14:07:19.732 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] Element bulundu.
+[INFO ] 2022-07-29 14:07:19.771 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] elementine tıklandı.
+[INFO ] 2022-07-29 14:07:19.788 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] Element bulundu.
+[INFO ] 2022-07-29 14:07:19.818 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] elementi silindi.
+[INFO ] 2022-07-29 14:07:19.824 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] Element bulundu.
+[INFO ] 2022-07-29 14:07:19.854 [main] Log - By.xpath: //input[@type='text'and@name='quantity'] elementine 2 texti yazıldı.
+[INFO ] 2022-07-29 14:07:19.887 [main] Log - By.xpath: //i[@title='Güncelle'] Element bulundu.
+[INFO ] 2022-07-29 14:07:19.922 [main] Log - By.xpath: //i[@title='Güncelle'] elementine tıklandı.
+[INFO ] 2022-07-29 14:07:20.327 [main] Log - By.id: swal2-title elementinin text değeri :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 14:07:20.337 [main] Log - By.id: swal2-title Element bulundu.
+[INFO ] 2022-07-29 14:07:20.890 [main] Log - By.xpath: //i[@title='Kaldır'] Element bulundu.
+[INFO ] 2022-07-29 14:07:20.990 [main] Log - By.xpath: //i[@title='Kaldır'] elementine tıklandı.
+[INFO ] 2022-07-29 14:07:21.553 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] elementinin text değeri :  0
+[INFO ] 2022-07-29 14:07:21.559 [main] Log - By.xpath: //span[@id='cart-items' and @class='fl'] Element bulundu.
+[INFO ] 2022-07-29 14:07:26.273 [main] Log - Test sona erdi.
+[INFO ] 2022-07-29 15:14:47.363 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 15:14:50.284 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 15:14:50.426 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 15:14:52.704 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 15:14:52.708 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 15:14:52.728 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 15:14:52.739 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 15:14:52.750 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 15:14:52.803 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 15:14:52.809 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 15:14:53.576 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 15:14:53.587 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 15:14:53.593 [main] LogProcess - Number selected from 1 to  20 ---> 7
+[INFO ] 2022-07-29 15:14:53.600 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 15:14:53.690 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 15:14:54.242 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 15:14:54.252 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 15:14:54.290 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 15:14:54.320 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 15:14:54.606 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 15:14:55.102 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 15:14:55.137 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 15:14:55.178 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 15:14:55.191 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 15:14:55.213 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 15:14:55.219 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 15:14:55.247 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 15:14:55.278 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 15:14:55.310 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 15:14:55.526 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 15:14:55.537 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 15:14:55.897 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 15:14:55.997 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 15:14:56.561 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 15:14:56.568 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 15:15:01.295 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 15:16:19.315 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 15:16:21.700 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 15:16:21.838 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 15:16:25.040 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 15:16:25.044 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 15:16:25.059 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 15:16:25.070 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 15:16:25.080 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 15:16:25.130 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 15:16:25.136 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 15:16:26.331 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 15:16:26.342 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 15:16:26.349 [main] LogProcess - Number selected from 1 to  20 ---> 6
+[INFO ] 2022-07-29 15:16:26.356 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 15:16:26.450 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 15:16:26.990 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 15:16:27.000 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 15:16:27.039 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 15:16:27.070 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 15:16:27.346 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 15:16:27.992 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 15:16:28.024 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 15:16:28.071 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 15:16:28.084 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 15:16:28.107 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 15:16:28.113 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 15:16:28.140 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 15:16:28.170 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 15:16:28.204 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 15:16:28.534 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 15:16:28.543 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 15:16:28.905 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 15:16:29.004 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 15:16:29.567 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 15:16:29.573 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 15:16:34.329 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 16:35:43.055 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 16:35:46.557 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 16:35:46.701 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 16:35:49.056 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 16:35:49.063 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 16:35:49.092 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 16:35:49.113 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 16:35:49.131 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 16:35:49.232 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 16:35:49.245 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 16:35:50.244 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 16:35:50.262 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 16:35:50.276 [main] LogProcess - Number selected from 1 to  20 ---> 2
+[INFO ] 2022-07-29 16:35:50.290 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 16:35:50.409 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 17:55:45.462 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 17:55:49.227 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 17:55:49.387 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 17:55:51.876 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 17:55:51.884 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 17:55:51.910 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 17:55:51.930 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 17:55:51.947 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 17:55:52.028 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 17:55:52.037 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 17:55:53.021 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 17:55:53.038 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 17:55:53.048 [main] LogProcess - Number selected from 1 to  20 ---> 10
+[INFO ] 2022-07-29 17:55:53.059 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 17:55:53.164 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 17:56:42.980 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 17:57:36.968 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 17:57:40.020 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 17:57:40.167 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 17:57:42.250 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 17:57:42.255 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 17:57:42.278 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 17:57:42.294 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 17:57:42.310 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 17:57:42.389 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 17:57:42.400 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 17:57:43.253 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 17:57:43.269 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 17:57:43.280 [main] LogProcess - Number selected from 1 to  20 ---> 7
+[INFO ] 2022-07-29 17:57:43.292 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 17:57:43.404 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 17:58:33.442 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 17:59:09.063 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 17:59:12.127 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 17:59:12.280 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 17:59:14.699 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 17:59:14.708 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 17:59:14.735 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 17:59:14.754 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 17:59:14.774 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 17:59:14.868 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 17:59:14.877 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 17:59:15.799 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 17:59:15.817 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 17:59:15.828 [main] LogProcess - Number selected from 1 to  20 ---> 16
+[INFO ] 2022-07-29 17:59:15.840 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 17:59:15.989 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 17:59:16.560 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 17:59:16.578 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 17:59:16.651 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 17:59:16.705 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 17:59:17.000 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 17:59:17.671 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 17:59:17.732 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 17:59:17.806 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 17:59:17.832 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 17:59:17.879 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 17:59:17.901 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 17:59:17.949 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 17:59:17.996 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 17:59:18.045 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 17:59:18.327 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 17:59:18.345 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 17:59:18.666 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 17:59:18.785 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 17:59:19.383 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 17:59:19.409 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 17:59:20.293 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 18:01:14.763 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:01:17.937 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:01:18.093 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:01:20.414 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:01:20.423 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:01:20.444 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:01:20.460 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:01:20.475 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:01:20.556 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:01:20.566 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:01:21.559 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:01:21.577 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:01:21.589 [main] LogProcess - Number selected from 1 to  20 ---> 5
+[INFO ] 2022-07-29 18:01:21.600 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:01:21.710 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:02:11.642 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 18:03:45.424 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:03:48.648 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:03:48.797 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:03:51.085 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:03:51.093 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:03:51.118 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:03:51.138 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:03:51.156 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:03:51.257 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:03:51.268 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:03:52.370 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:03:52.390 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:03:52.402 [main] LogProcess - Number selected from 1 to  20 ---> 17
+[INFO ] 2022-07-29 18:03:52.413 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:03:52.538 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:03:53.122 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 18:03:53.141 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:03:53.231 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:03:53.298 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 18:03:53.533 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 18:03:54.115 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 18:03:54.178 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:03:54.252 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 18:03:54.288 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:03:54.335 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 18:03:54.347 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:03:54.405 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 18:03:54.459 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 18:03:54.515 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 18:03:54.706 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 18:03:54.723 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 18:03:55.053 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 18:03:55.155 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 18:03:55.745 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 18:03:55.771 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:03:56.670 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 18:04:15.739 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:04:18.843 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:04:18.994 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:04:21.215 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:04:21.220 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:04:21.242 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:04:21.258 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:04:21.274 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:04:21.359 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:04:21.369 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:04:22.372 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:04:22.389 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:04:22.400 [main] LogProcess - Number selected from 1 to  20 ---> 9
+[INFO ] 2022-07-29 18:04:22.411 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:04:22.549 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:04:23.111 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 18:04:23.125 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:04:23.187 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:04:23.238 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 18:04:23.480 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 18:04:24.150 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 18:04:24.211 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:04:24.298 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 18:04:24.319 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:04:24.368 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 18:04:24.381 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:04:24.432 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 18:04:24.478 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 18:04:24.523 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 18:04:24.689 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 18:04:24.705 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 18:04:24.986 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 18:04:25.048 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 18:04:25.606 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 18:04:25.623 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:04:26.422 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 18:06:40.714 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:06:43.859 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:06:44.011 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:06:46.330 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:06:46.337 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:06:46.359 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:06:46.375 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:06:46.391 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:06:46.473 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:06:46.483 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:06:47.337 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:06:47.355 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:06:47.366 [main] LogProcess - Number selected from 1 to  20 ---> 14
+[INFO ] 2022-07-29 18:06:47.377 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:06:47.511 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:06:48.082 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 18:06:48.097 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:06:48.160 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:06:48.212 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 18:06:48.459 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 18:06:49.069 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 18:06:49.132 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:06:49.211 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 18:06:49.230 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:06:49.270 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 18:06:49.280 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:06:49.327 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 18:06:49.374 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 18:06:49.426 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 18:06:49.639 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 18:06:49.651 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 18:06:49.884 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 18:06:49.944 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 18:06:50.506 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 18:06:50.519 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:06:55.332 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 18:07:22.115 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:07:25.244 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:07:25.398 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:07:27.712 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:07:27.718 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:07:27.740 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:07:27.756 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:07:27.771 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:07:27.849 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:07:27.859 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:07:28.735 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:07:28.753 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:07:28.763 [main] LogProcess - Number selected from 1 to  20 ---> 17
+[INFO ] 2022-07-29 18:07:28.774 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:07:28.908 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:07:29.461 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 18:07:29.477 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:07:29.542 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:07:29.588 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 18:07:30.000 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 18:07:30.689 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 18:07:30.749 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:07:30.834 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 18:07:30.858 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:07:30.906 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 18:07:30.919 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:07:30.978 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 18:07:31.033 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 18:07:31.086 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 18:07:31.310 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 18:07:31.328 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 18:07:31.605 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 18:07:31.668 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 18:07:32.234 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 18:07:32.245 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:07:37.036 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 18:43:01.658 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:43:04.810 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:43:04.953 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:43:07.423 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:43:07.430 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:43:07.452 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:43:07.469 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:43:07.485 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:43:07.564 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:43:07.575 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:43:08.606 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:43:08.623 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:43:08.634 [main] LogProcess - Number selected from 1 to  20 ---> 18
+[INFO ] 2022-07-29 18:43:08.645 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:43:08.799 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:43:09.369 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 18:43:09.387 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:43:09.452 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:43:09.501 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 18:43:09.806 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 18:43:10.540 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 18:43:10.601 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:43:10.674 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 18:43:10.698 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:43:10.755 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 18:43:10.775 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:43:10.830 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 18:43:10.885 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 18:43:10.933 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 18:43:11.162 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 18:43:11.179 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 18:43:11.468 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 18:43:11.529 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 18:43:12.086 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 18:43:12.101 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:43:13.072 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 18:44:12.058 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:44:15.307 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:44:15.484 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:44:17.837 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:44:17.846 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:44:17.874 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:44:17.893 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:44:17.912 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:44:18.014 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:44:18.028 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:44:18.968 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:44:18.984 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:44:18.996 [main] LogProcess - Number selected from 1 to  20 ---> 19
+[INFO ] 2022-07-29 18:44:19.008 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:44:19.143 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:44:19.709 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 18:44:19.724 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:44:19.785 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:44:19.834 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 18:44:20.142 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 18:44:20.722 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 18:44:20.782 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:44:20.863 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 18:44:20.897 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:44:20.943 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 18:44:20.959 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:44:21.016 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 18:44:21.068 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 18:44:21.115 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 18:44:21.331 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 18:44:21.347 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 18:44:21.640 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 18:44:21.703 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 18:44:22.261 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 18:44:22.276 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:44:27.097 [main] LogProcess - Test finished.
+[INFO ] 2022-07-29 18:45:11.371 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:45:14.437 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:45:14.603 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:45:17.454 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:45:17.462 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:45:17.489 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:45:17.508 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:45:17.525 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:45:17.618 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:45:17.631 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:45:18.682 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:45:18.701 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:45:18.715 [main] LogProcess - Number selected from 1 to  20 ---> 16
+[INFO ] 2022-07-29 18:45:18.729 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:45:18.864 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:45:49.852 [main] LogProcess - Test starting...
+[INFO ] 2022-07-29 18:45:52.934 [main] LogProcess - Driver builded.
+[INFO ] 2022-07-29 18:45:53.082 [main] LogProcess - Driver open at maximize
+[INFO ] 2022-07-29 18:45:56.026 [main] LogProcess - https://www.kitapyurdu.com/
+[INFO ] 2022-07-29 18:45:56.032 [main] LogProcess - https://www.kitapyurdu.com/ The site has been verified.
+[INFO ] 2022-07-29 18:45:56.054 [main] LogProcess - By.cssSelector: .logo-text Element finded.
+[INFO ] 2022-07-29 18:45:56.070 [main] LogProcess - *The word Roman was retrieved from the CSV file.*
+[INFO ] 2022-07-29 18:45:56.085 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:45:56.163 [main] LogProcess - Text By.xpath: //input[@name='search_keyword'] is written to Roman element.
+[INFO ] 2022-07-29 18:45:56.175 [main] LogProcess - By.xpath: //input[@name='search_keyword'] Element finded.
+[INFO ] 2022-07-29 18:45:57.078 [main] LogProcess - Clicked the Enter.
+[INFO ] 2022-07-29 18:45:57.094 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:45:57.105 [main] LogProcess - Number selected from 1 to  20 ---> 15
+[INFO ] 2022-07-29 18:45:57.116 [main] LogProcess - By.cssSelector: div[id='product-table']>.product-cr>.grid_2.alpha.omega.relative>.hover-menu>.add-to-cart element's list finded.
+[INFO ] 2022-07-29 18:45:57.253 [main] LogProcess - Ramdonly selected element is clicked...
+[INFO ] 2022-07-29 18:45:57.815 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  1
+[INFO ] 2022-07-29 18:45:57.831 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:45:57.891 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:45:57.940 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element was clicked
+[INFO ] 2022-07-29 18:45:58.241 [main] LogProcess - By.id: js-cart Element finded.
+[INFO ] 2022-07-29 18:45:58.849 [main] LogProcess - By.id: js-cart element was clicked
+[INFO ] 2022-07-29 18:45:58.913 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:45:58.985 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was clicked
+[INFO ] 2022-07-29 18:45:59.007 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:45:59.066 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] element was deleted.
+[INFO ] 2022-07-29 18:45:59.075 [main] LogProcess - By.xpath: //input[@type='text'and@name='quantity'] Element finded.
+[INFO ] 2022-07-29 18:45:59.122 [main] LogProcess - Text By.xpath: //input[@type='text'and@name='quantity'] is written to 2 element.
+[INFO ] 2022-07-29 18:45:59.168 [main] LogProcess - By.xpath: //i[@title='Güncelle'] Element finded.
+[INFO ] 2022-07-29 18:45:59.215 [main] LogProcess - By.xpath: //i[@title='Güncelle'] element was clicked
+[INFO ] 2022-07-29 18:45:59.428 [main] LogProcess - By.id: swal2-title element's text value :  Sepetiniz güncelleniyor!
+[INFO ] 2022-07-29 18:45:59.446 [main] LogProcess - By.id: swal2-title Element finded.
+[INFO ] 2022-07-29 18:45:59.682 [main] LogProcess - By.xpath: //i[@title='Kaldır'] Element finded.
+[INFO ] 2022-07-29 18:45:59.741 [main] LogProcess - By.xpath: //i[@title='Kaldır'] element was clicked
+[INFO ] 2022-07-29 18:46:00.306 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] element's text value :  0
+[INFO ] 2022-07-29 18:46:00.317 [main] LogProcess - By.xpath: //span[@id='cart-items' and @class='fl'] Element finded.
+[INFO ] 2022-07-29 18:46:05.132 [main] LogProcess - Test finished.
